@@ -2,7 +2,7 @@
   "name": "message-service",
   "description": "Service for sending and receiving messages to other scopes.",
   "authors": [
-  "ClearCode (http://clearcode.cc)",
+  "ClearCode (http://clearcode.cc)"
 ],
   "version": "1.0.0",
   "main": "message.js",
