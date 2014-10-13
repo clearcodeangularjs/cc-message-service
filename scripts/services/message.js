@@ -71,5 +71,5 @@
         this.$rootScope.$broadcast('event:message:' + place);
     }
 
-    angular.module('cc.message.service').service('message', Message);
+    angular.module('cc.message.service', []).service('message', Message);
 })();
