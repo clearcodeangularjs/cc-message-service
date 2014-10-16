@@ -1,11 +1,11 @@
 {
-	"name": "message-service",
+	"name": "cc-message-service",
 	"description": "Service for sending and receiving messages to other scopes.",
 	"authors": [
 		"ClearCode (http://clearcode.cc)"
 	],
 	"version": "1.0.0",
-	"main": "message.js",
+	"main": "scripts/services/message.js",
 	"ignore": [
 		"**/.*",
 		"node_modules",
