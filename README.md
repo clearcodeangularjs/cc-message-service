@@ -5,7 +5,7 @@ This service sends and recieves messages from other scopes.
 
 Installation
 --------------
-TODO
+``` bower install clearcodeangularjs/cc-message-service --save ```
 
 
 Usage
